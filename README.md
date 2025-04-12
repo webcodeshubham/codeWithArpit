@@ -96,4 +96,9 @@ The primary objective of CodeWithArpit is to empower students with essential tec
 
 ## Flow Explain by Image
 
+1. Login By Email
+
+![Screenshot from 2025-04-12 19-27-00](https://github.com/user-attachments/assets/2968b63f-e0a9-4694-b09d-45e624fa8803)
+
+
 
